@@ -25,6 +25,10 @@ h1 {
     font-size: 1.1rem;
 }
 
+h2 {
+    margin-bottom: 2rem;
+}
+
 h3 {
     margin: 0.5rem 0 0.5rem 0;
 }
@@ -75,7 +79,7 @@ p {
         }
 
         img {
-            width: 20rem;
+            width: 21.5rem;
         }
 
         h2 {
