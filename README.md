@@ -1,4 +1,5 @@
 Este proyecto es una entrada de blog técnica enfocada en la enseñanza clara de los conceptos fundamentales de las funciones matemáticas. Combina explicaciones teóricas con visualizaciones gráficas generadas en GeoGebra.
+https://mirandaadev.github.io/proyecto-devf/
 
 ---
 
